@@ -1,8 +1,6 @@
-# Mantu_AI_technical_test
-
 # Classification de compte-rendus médicaux
 
-Le but est de prédire la condition médicale en fonction d'un compte-rendu médical. Ce projet utilise un modèle pré-entrainé BioBERT pour la classification de comptes-rendus médicaux dans différentes catégories.
+Le but de ce projet est de prédire la condition médicale en fonction d'un compte-rendu médical. Ce projet utilise un modèle pré-entrainé BioBERT pour la classification de comptes-rendus médicaux dans différentes catégories.
 
 Voici les catégories : [“Neoplasms”, “Digestive system diseases”, “Nervoussystem diseases”, “Cardiovasculardiseases”]
 
